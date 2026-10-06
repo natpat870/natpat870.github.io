@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #77ffdb;
+  color: #ff0084;
+  display: block;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+h1 {
+  color: #000000;background: #ffffff;
+}
+
+p {
+  font-size: 1.1rem;
+}
